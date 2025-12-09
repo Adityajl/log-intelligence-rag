@@ -1,0 +1,11 @@
+# The Golden Compatible Set
+torch
+numpy<2.0
+huggingface-hub==0.19.4
+transformers==4.34.0
+sentence-transformers==2.2.2
+chromadb==0.4.22
+groq
+redis
+python-dotenv
+colorama
